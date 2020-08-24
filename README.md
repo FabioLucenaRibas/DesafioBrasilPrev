@@ -1,4 +1,4 @@
-# DesafioBrasilPrev
+# DesafioBrasilPrev [![BCH compliance](https://bettercodehub.com/edge/badge/FabioLucenaRibas/DesafioBrasilPrev?branch=master)](https://bettercodehub.com/)
 
 ## Deploying the application to Heroku
 
